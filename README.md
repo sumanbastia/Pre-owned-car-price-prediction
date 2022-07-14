@@ -1,0 +1,2 @@
+# Pre-owned-car-price-prediction
+Now a days there are so many e-commerce company who sell and buy pre-owned cars or who can act as mediators between parties interested in buying and selling pre-owned cars. For this here we develop a price prediction system who can predict the value of cars based on various attributes associated with the cars to smooth the process of buying and selling their products.
